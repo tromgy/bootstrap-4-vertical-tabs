@@ -19,7 +19,12 @@ in your HTML.
 You can use this package either by directly embedding its pre-built stylesheet in your HTML **after the boostrap styles** like this:
 
 ```HTML
-<TBD>
+<link
+  rel="stylesheet"
+  href="https://b4vtabs.netlify.com/b4vtabs.min.css"
+  integrity="sha384-xuENyK8WK0UZ4hFibhDXThDeSM3d8sfYB+1n9H5YbUg2kSDwI5Rj+l0ytoNPpxzD"
+  crossorigin="anonymous"
+/>
 ```
 
 or (recommended) install and build it yourself:
