@@ -2,8 +2,7 @@
 
 [![Build Status](https://travis-ci.org/tromgy/bootstrap-4-vertical-tabs.png?branch=master)](https://travis-ci.org/tromgy/bootstrap-4-vertical-tabs)
 
-
-A stylesheet that implements vertically-oriented navigation tabs with Bootstrap 4.
+A stylesheet that implements [vertically-oriented navigation tabs](https://b4vtabs.netlify.com) with Bootstrap 4.
 
 ![screenshot](vtabs-wide.png)
 
@@ -90,4 +89,6 @@ Left                                           | Right
 `sideways-tabs` (with `left-tabs`)             |              `sideways-tabs` (with `right-tabs`)
 <img src="vtabs-left-sideways.png" width="100">| <img src="vtabs-right-sideways.png" width="100">
 
-The **index.html** file in the **dist** directory illustrates all four styles.
+The **index.html** file in the **dist** directory illustrates all four styles. 
+
+You can also see the [live demo](https://b4vtabs.netlify.com).
