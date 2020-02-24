@@ -76,8 +76,10 @@ npx node-sass --importer node_modules/node-sass-import <input>.scss <output>.css
 ## Usage
 
 There are 3 classes defined in the stylesheet which should be applied to the element having `nav-tabs` bootstrap class:
- &nbsp;                                        |                                           &nbsp;
------------------------------------------------|-------------------------------------------------
+`left-tabs`, `right-tabs`, and `sideways-tabs`:
+
+Left                                           | Right
+:----------------------------------------------|-------------------------------------------------:
 `left-tabs`                                    |                                     `right-tabs`
 <img src="vtabs-left.png" width="200">         |          <img src="vtabs-right.png" width="200">
 `sideways-tabs` (with `left-tabs`)             |              `sideways-tabs` (with `right-tabs`)
