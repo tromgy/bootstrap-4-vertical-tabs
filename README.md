@@ -90,4 +90,4 @@ Left                                           | Right
 `sideways-tabs` (with `left-tabs`)             |              `sideways-tabs` (with `right-tabs`)
 <img src="vtabs-left-sideways.png" width="100">| <img src="vtabs-right-sideways.png" width="100">
 
-The **index.html** file in this directory illustrates all four styles.
+The **index.html** file in the **dist** directory illustrates all four styles.
