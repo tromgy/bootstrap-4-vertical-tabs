@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-4-vertical-tabs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Responsive vertical tabs navigation component for Bootstrap 4",
   "main": "index.html",
   "scripts": {
