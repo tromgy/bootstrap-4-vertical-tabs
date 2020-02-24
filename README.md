@@ -1,5 +1,8 @@
 # Responsive Vertical Navigation Tabs for Boostrap 4
 
+[![Build Status](https://travis-ci.org/tromgy/bootstrap-4-vertical-tabs.png?branch=master)](https://travis-ci.org/tromgy/bootstrap-4-vertical-tabs)
+
+
 A stylesheet that implements vertically-oriented navigation tabs with Bootstrap 4.
 
 ![screenshot](vtabs-wide.png)
