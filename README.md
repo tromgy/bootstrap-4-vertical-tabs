@@ -56,9 +56,9 @@ tabs turn into regular horizontal tabs:
 A (long) text that (always) fits into a vertical tab, will get ellipsis-_ed_ when it doesn't fit into
 horizontal or sideways tabs:
 
-&nbsp;                                                                        | &nbsp;                                                                                | &nbsp;
+Vertical                                                                      | Horizontal                                                                            | Sideways
 ------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------
-<img src="vtabs-longword.png" alt="vertical tab with a long text" width="220">|<img src="vtabs-longword-narrow.png" alt="horizontal tab with a long text" width="220">|<img src="vtabs-longword-sideways.png" alt="vertical sideways tab with a long text" width="100">
+<img src="vtabs-longword.png" alt="vertical tab with a long text" width="220">|<img src="vtabs-longword-narrow.png" alt="horizontal tab with a long text" width="300">|<img src="vtabs-longword-sideways.png" alt="vertical sideways tab with a long text" width="100">
 
 changing the value of this variable can allow you to control if and how tab captions might be truncated. The recommended values are between 4 and 12 rem.
 
@@ -77,7 +77,7 @@ npx node-sass --importer node_modules/node-sass-import <input>.scss <output>.css
 
 There are 3 classes defined in the stylesheet which should be applied to the element having `nav-tabs` bootstrap class:
  &nbsp;                                        |                                           &nbsp;
-:----------------------------------------------|------------------------------------------------:
+-----------------------------------------------|-------------------------------------------------
 `left-tabs`                                    |                                     `right-tabs`
 <img src="vtabs-left.png" width="200">         |          <img src="vtabs-right.png" width="200">
 `sideways-tabs` (with `left-tabs`)             |              `sideways-tabs` (with `right-tabs`)
