@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-4-vertical-tabs",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Responsive vertical tabs navigation component for Bootstrap 4",
   "main": "index.html",
   "scripts": {
@@ -16,11 +16,11 @@
   "author": "Tromgy",
   "repository": "https://github.com/tromgy/bootstrap-4-vertical-tabs.git",
   "license": "MIT",
-  "dependencies": {
-    "bootstrap": "^4.4.1"
-  },
   "devDependencies": {
     "node-sass": "^6.0.0",
     "node-sass-import": "^2.0.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0"
   }
 }
