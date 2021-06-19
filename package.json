@@ -20,7 +20,7 @@
     "bootstrap": "^4.4.1"
   },
   "devDependencies": {
-    "node-sass": "^4.13.1",
+    "node-sass": "^6.0.0",
     "node-sass-import": "^2.0.1"
   }
 }
