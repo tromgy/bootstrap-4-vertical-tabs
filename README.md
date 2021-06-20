@@ -2,6 +2,11 @@
 
 [![Build Status](https://travis-ci.com/tromgy/bootstrap-4-vertical-tabs.png?branch=master)](https://travis-ci.com/tromgy/bootstrap-4-vertical-tabs)
 
+## New! 💥
+
+If you use Bootstrap 5, a new package is available for that: [bootstrap-5-vertical-tabs](https://www.npmjs.com/package/bootstrap-5-vertical-tabs)
+
+
 A stylesheet that implements [vertically-oriented navigation tabs](https://b4vtabs.netlify.com) with Bootstrap 4.
 
 ![screenshot](vtabs-wide.png)
@@ -19,11 +24,12 @@ You can use this package either by directly embedding its pre-built stylesheet i
 
 ```HTML
 <link
-  rel="stylesheet"
-  href="https://b4vtabs.netlify.com/b4vtabs.min.css"
-  integrity="sha384-xuENyK8WK0UZ4hFibhDXThDeSM3d8sfYB+1n9H5YbUg2kSDwI5Rj+l0ytoNPpxzD"
-  crossorigin="anonymous"
-/>
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/bootstrap-4-vertical-tabs@1.0.5/dist/b4vtabs.min.css"
+    integrity="sha256-50hAW3XxIEhgiQ8ef3aiSyx6UUchuz2mtpimNCrtuQs=
+"
+    crossorigin="anonymous"
+  />
 ```
 
 or (recommended) install and build it yourself:
