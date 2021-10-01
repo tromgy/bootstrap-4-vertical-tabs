@@ -1,6 +1,6 @@
 # Responsive Vertical Navigation Tabs for Boostrap 4
 
-[![Build Status](https://travis-ci.com/tromgy/bootstrap-4-vertical-tabs.png?branch=master)](https://travis-ci.com/tromgy/bootstrap-4-vertical-tabs)
+[![Build Status](https://app.travis-ci.com/tromgy/bootstrap-4-vertical-tabs.png?branch=master)](https://app.travis-ci.com/tromgy/bootstrap-4-vertical-tabs)
 
 ## New! 💥
 
@@ -25,9 +25,8 @@ You can use this package either by directly embedding its pre-built stylesheet i
 ```HTML
 <link
     rel="stylesheet"
-    href="https://cdn.jsdelivr.net/npm/bootstrap-4-vertical-tabs@1.0.5/dist/b4vtabs.min.css"
-    integrity="sha256-50hAW3XxIEhgiQ8ef3aiSyx6UUchuz2mtpimNCrtuQs=
-"
+    href="https://cdn.jsdelivr.net/npm/bootstrap-4-vertical-tabs@1.0.6/dist/b4vtabs.min.css"
+    integrity="9nf7vjTEqs0CUpWVZcqp16sbMg+W077uMBNDUJGjS/bMOjJ9h7zqTlGEd2NEqSTa"
     crossorigin="anonymous"
   />
 ```
