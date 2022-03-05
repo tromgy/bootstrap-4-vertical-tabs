@@ -18,7 +18,7 @@
   "repository": "https://github.com/tromgy/bootstrap-4-vertical-tabs.git",
   "license": "MIT",
   "devDependencies": {
-    "node-sass": "^6.0.0",
+    "node-sass": "^7.0.0",
     "node-sass-import": "^2.0.1"
   },
   "dependencies": {
